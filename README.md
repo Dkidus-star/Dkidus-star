@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 💫 Hello, I'm Kidus Girma:
+
 🔭 I’m currently working on<br>
 Building and improving full-stack web applications with React and Next.js.<br>
 👯 I'm looking to collaborate on
