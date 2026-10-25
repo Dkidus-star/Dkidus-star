@@ -12,7 +12,7 @@ and web development projects.<br>
 💬 Ask me about
 <br>HTML, CSS, JavaScript, React, Next.js, Git, GitHub.<br>
 ⚡Fun fact
-<br>I'm turning what I learn into real projects and building my developer portfolio one commit at a time. 🇪🇹
+<br>I'm turning what I learn into real projects. 🇪🇹
 
 
 ## 🌐 Socials:
