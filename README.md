@@ -4,7 +4,7 @@
 Building and improving full-stack web applications with React and Next.js.<br>
 👯 I'm looking to collaborate on
 <br>Open-source projects, React applications, Next.js projects,
-and beginner-friendly web development projects.<br>
+and web development projects.<br>
 🤝 I'm looking for help with
 <br>Writing clean, maintainable code, improving application architecture, and learning professional development best practices.<br>
 🌱I'm currently learning
